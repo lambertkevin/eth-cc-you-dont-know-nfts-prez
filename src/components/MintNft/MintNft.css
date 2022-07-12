@@ -1,0 +1,12 @@
+.mint-nft {
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.mint-nft button {
+  width: 100%;
+}

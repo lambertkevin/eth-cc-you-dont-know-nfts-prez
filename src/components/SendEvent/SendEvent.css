@@ -1,0 +1,21 @@
+.send-event {
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.send-event input {
+  width: 25%;
+  border-radius: 4px;
+  padding: 10px;
+  margin-right: 10px;
+  border: none;
+  outline: none;
+}
+
+.send-event button {
+  width: 100%;
+}
